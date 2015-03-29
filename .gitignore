@@ -25,3 +25,7 @@ Carthage.build
 
 # Vim
 .vim/bundle/
+
+# node
+node_modules/
+npm-debug.log
